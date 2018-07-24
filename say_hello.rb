@@ -3,5 +3,5 @@
 def say_hello(name =" karlie kloss") 
   puts "hello #{name}"
 end 
-say_hello("maddie")
+say_hello(name)
 
